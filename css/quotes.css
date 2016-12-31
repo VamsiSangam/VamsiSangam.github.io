@@ -1,0 +1,28 @@
+﻿.quotes-blockquote > blockquote {
+    font-size:18pt;
+}
+
+.quotes-blockquote > a > blockquote {
+    font-size:18pt;
+}
+
+.quotes-blockquote > .pull-right {
+    border-right-color: #3498db;
+}
+
+.imaged-blockquote:hover {
+    background : rgba(128, 128, 128, 0.1);
+}
+
+.divider-movie-quotes {
+    background: url('../img/dividers/divider-movie-quotes.jpg');
+}
+
+.divider-life-quotes {
+    background: url('../img/dividers/divider-life-quotes.jpg');
+}
+
+.intro-pic {
+    max-height : 250px;
+    padding: 30px;
+}

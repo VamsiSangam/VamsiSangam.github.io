@@ -1,0 +1,17 @@
+﻿.divider-books-2015 {
+    background-image:url('../img/dividers/divider-books-2015.jpg');
+}
+
+.divider-books-2016 {
+    background-image: url('../img/dividers/divider-books-2016.jpg');
+}
+
+.books-intro {
+    height:300px;
+    margin: 30px;
+}
+
+.modal-pic {
+    max-height: 500px;
+    margin-left:30px;
+}

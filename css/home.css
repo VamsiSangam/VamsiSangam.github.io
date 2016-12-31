@@ -1,0 +1,56 @@
+﻿.family-thumbnail {
+    height : 225px;
+    width: 225px;
+    box-shadow: 1px 1px 5px 1px;
+    border-radius:3px;
+    margin-top:25px;
+    margin-bottom:15px;
+}
+
+.family-pic {
+    box-shadow: 1px 1px 5px 1px;
+    border-radius:3px;
+    margin-top:25px;
+    margin-bottom:15px;
+}
+
+.home-pic
+{
+    width:30%;
+    margin: 35px 30px 20px 0px;
+    box-shadow: 1px 1px 5px 1px;
+    border-radius:3px;
+}
+
+@media only screen and (max-width:768px) {
+    .home-pic {
+        width:45%;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .home-pic {
+        width:100%;
+    }
+}
+
+.interests-icon {
+    font-size: 40pt;
+}
+
+.project-carousel-arrows {
+    font-size: 30pt;
+    vertical-align: central;
+}
+
+.divider-family {
+    background-image: url('../img/dividers/divider-family.jpg')
+}
+
+.divider-interests {
+    background-image: url('../img/dividers/divider-interests.jpg')
+}
+
+.divider-portfolio {
+    background-image: url('../img/dividers/divider-portfolio.jpg')
+}

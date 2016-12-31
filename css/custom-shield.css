@@ -1,0 +1,55 @@
+.btn-square {
+    border-radius: 0px;
+}
+
+#contact .contact-form {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin-top: 50px;
+}
+#contact .contact-form h3 {
+    margin-top: 0;
+}
+.contact-area label {
+    font-weight: 300;
+}
+.contact-area .form-group input ,.contact-area .form-group textarea {
+    border-radius: 0;
+    font-size: 13px;
+    font-weight: normal;
+    color: #888;
+}
+.contact-area .form-group textarea {
+    height: 195px;
+}
+
+.contact-area .form-control:focus, #focusedInput {
+    border: 1px solid #000;
+    box-shadow: none;
+}
+
+.contact-area  .btn-send-msg {
+    margin-top: 30px;
+    border-radius: 0px;
+}
+
+.table-data-padding tr td {
+    padding: 5px;
+}
+
+.contact-table-align-top tr:first-child {
+    vertical-align: top;
+}
+
+.btn-proper-width {
+    border-radius:0px;
+    padding: 7.5px;
+    min-width: 0px;
+    min-height: 0px;
+    font-size: 12.5pt;
+    text-align: center;    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
