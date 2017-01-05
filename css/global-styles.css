@@ -1,9 +1,8 @@
 ﻿/* ===== ===== ===== ===== Custom Styles added by Vamsi Sangam ===== ===== ===== ===== */
 
 body {
-    background-image:url(../img/patterns/geometry.png);
-    font-weight:300;
-    text-shadow: 0px 0px 1px;   
+    background-image:url(../img/patterns/crossword.png);
+    color: black;
 }
 
 .section-divider {
