@@ -1,5 +1,6 @@
-﻿.quotes-blockquote > blockquote {
+﻿.quotes-blockquote  blockquote {
     font-size:18pt;
+    color: black;
 }
 
 .quotes-blockquote > a > blockquote {
