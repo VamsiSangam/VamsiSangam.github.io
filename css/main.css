@@ -272,7 +272,7 @@ a:after {
    ========================================================================== */
 
 .headerwrap {
-	background: url(../img/cover1.jpg);
+	background: url(../img/cover.jpg); /* === header imge === */
     background-attachment: relative;
 	background-position: left top;
 	margin-top: 50px;
